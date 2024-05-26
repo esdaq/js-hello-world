@@ -4,7 +4,15 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log('Hello, World!');
+console.log('Hello, Aliens!');
+console.log(42 + 10)
+console.log("This is another message.");
+console.log("This is another message printed after the last message.");
+console.log("First message" + " Second message");
+console.log("\"LaunchCode\"");
+console.log("2 * 2 = " + 2 * 2);
+
 
 /*  
 Next, PLAY! 
